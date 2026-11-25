@@ -1,0 +1,3762 @@
+[
+ {
+  "dia": 1,
+  "data": "2026-11-26",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "first-steps-wire",
+    "nome": "A Single Wire",
+    "topico": "Primeiros passos",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/getting-started/first-steps/wire/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "first-steps-four-wires",
+    "nome": "Four Independent Wires",
+    "topico": "Primeiros passos",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/getting-started/first-steps/four-wires/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "first-steps-inverter",
+    "nome": "Inverter (NOT Gate)",
+    "topico": "Primeiros passos",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/getting-started/first-steps/inverter/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "first-steps-and-gate",
+    "nome": "2-Input AND Gate",
+    "topico": "Primeiros passos",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/getting-started/first-steps/and-gate/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "first-steps-output-zero",
+    "nome": "Output Zero",
+    "topico": "Primeiros passos",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/getting-started/first-steps/output-zero/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "basics-constant-one",
+    "nome": "Constant One Output",
+    "topico": "Primeiros passos",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/basics/constant-one/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "basics-constant-vector",
+    "nome": "Constant Vector Output",
+    "topico": "Primeiros passos",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/basics/constant-vector/"
+   }
+  ]
+ },
+ {
+  "dia": 2,
+  "data": "2026-11-27",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "basics-mux2to1",
+    "nome": "2-to-1 Multiplexer",
+    "topico": "Primeiros passos",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/basics/mux2to1/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "basics-half-adder",
+    "nome": "Half Adder",
+    "topico": "Primeiros passos",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/basics/half-adder/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "basics-full-adder",
+    "nome": "Full Adder",
+    "topico": "Primeiros passos",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/basics/full-adder/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "basics-nor-gate",
+    "nome": "NOR Gate",
+    "topico": "Primeiros passos",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/basics/nor-gate/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "basics-xnor-gate",
+    "nome": "XNOR Gate",
+    "topico": "Primeiros passos",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/basics/xnor-gate/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "basics-declaring-wires",
+    "nome": "Declaring Wires",
+    "topico": "Primeiros passos",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/basics/declaring-wires/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "basics-7458-chip",
+    "nome": "7458 Chip",
+    "topico": "Primeiros passos",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/basics/7458-chip/"
+   }
+  ]
+ },
+ {
+  "dia": 3,
+  "data": "2026-11-28",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "01-xor-com-nand",
+    "nome": "01-xor-com-nand",
+    "topico": "Primeiros passos",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "vectors-vector-passthrough",
+    "nome": "Vectors",
+    "topico": "Vetores",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/vectors/vector-passthrough/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "vectors-bit-reversal",
+    "nome": "8-bit Vector Bit Reversal",
+    "topico": "Vetores",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verilog-language/vectors/bit-reversal/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "vectors-byte-select",
+    "nome": "Byte Select from a 32-bit Word",
+    "topico": "Vetores",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verilog-language/vectors/byte-select/"
+   }
+  ]
+ },
+ {
+  "dia": 4,
+  "data": "2026-11-29",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "vectors-concat-replicate",
+    "nome": "Concatenation and Replication",
+    "topico": "Vetores",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verilog-language/vectors/concat-replicate/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "vectors-sign-extend",
+    "nome": "Sign Extension",
+    "topico": "Vetores",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verilog-language/vectors/sign-extend/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "vectors-four-input-gates",
+    "nome": "Four-Input Gates",
+    "topico": "Vetores",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/vectors/four-input-gates/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "vectors-vector-bitwise",
+    "nome": "Vector Bitwise and Logical Operators",
+    "topico": "Vetores",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/vectors/vector-bitwise/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "vectors-vector-part-select",
+    "nome": "Vector Part Select",
+    "topico": "Vetores",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/vectors/vector-part-select/"
+   }
+  ]
+ },
+ {
+  "dia": 5,
+  "data": "2026-11-30",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "vectors-vector-reversal",
+    "nome": "Vector Reversal",
+    "topico": "Vetores",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/vectors/vector-reversal/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "vectors-vector-concatenation",
+    "nome": "Vector Concatenation and Splitting",
+    "topico": "Vetores",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/vectors/vector-concatenation/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "vectors-replication-operator",
+    "nome": "Replication Operator",
+    "topico": "Vetores",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/vectors/replication-operator/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "vectors-vector-details",
+    "nome": "Vectors in More Detail",
+    "topico": "Vetores",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/vectors/vector-details/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "vectors-more-replication",
+    "nome": "More Replication: Pairwise Equality",
+    "topico": "Vetores",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/vectors/more-replication/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "modules-hierarchy-instantiate-by-name",
+    "nome": "Instantiate a Submodule by Name",
+    "topico": "Módulos e hierarquia",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verilog-language/modules-hierarchy/instantiate-by-name/"
+   }
+  ]
+ },
+ {
+  "dia": 6,
+  "data": "2026-12-01",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "modules-hierarchy-modules",
+    "nome": "Modules",
+    "topico": "Módulos e hierarquia",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/modules-hierarchy/modules/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "modules-hierarchy-connect-ports-position",
+    "nome": "Connecting Ports by Position",
+    "topico": "Módulos e hierarquia",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/modules-hierarchy/connect-ports-position/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "modules-hierarchy-instantiate-multiple",
+    "nome": "Instantiate Multiple Copies of a Submodule",
+    "topico": "Módulos e hierarquia",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verilog-language/modules-hierarchy/instantiate-multiple/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "modules-hierarchy-connect-ports-name",
+    "nome": "Connecting Ports by Name",
+    "topico": "Módulos e hierarquia",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/modules-hierarchy/connect-ports-name/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "modules-hierarchy-intermediate-wire",
+    "nome": "Connecting Submodules with an Intermediate Wire",
+    "topico": "Módulos e hierarquia",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verilog-language/modules-hierarchy/intermediate-wire/"
+   }
+  ]
+ },
+ {
+  "dia": 7,
+  "data": "2026-12-02",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "modules-hierarchy-ripple-carry-adder",
+    "nome": "4-bit Ripple-Carry Adder from Full Adders",
+    "topico": "Módulos e hierarquia",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verilog-language/modules-hierarchy/ripple-carry-adder/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "modules-hierarchy-two-submodule-types",
+    "nome": "Combining Two Different Submodule Types",
+    "topico": "Módulos e hierarquia",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verilog-language/modules-hierarchy/two-submodule-types/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "modules-hierarchy-three-modules",
+    "nome": "Three Modules",
+    "topico": "Módulos e hierarquia",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verilog-language/modules-hierarchy/three-modules/"
+   }
+  ]
+ },
+ {
+  "dia": 8,
+  "data": "2026-12-03",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "modules-hierarchy-modules-vectors",
+    "nome": "Modules and Vectors",
+    "topico": "Módulos e hierarquia",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verilog-language/modules-hierarchy/modules-vectors/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "modules-hierarchy-adder-1",
+    "nome": "Adder 1",
+    "topico": "Módulos e hierarquia",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/modules-hierarchy/adder-1/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "modules-hierarchy-adder-2",
+    "nome": "Adder 2",
+    "topico": "Módulos e hierarquia",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verilog-language/modules-hierarchy/adder-2/"
+   }
+  ]
+ },
+ {
+  "dia": 9,
+  "data": "2026-12-04",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "modules-hierarchy-carry-select-adder",
+    "nome": "Carry-Select Adder",
+    "topico": "Módulos e hierarquia",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/modules-hierarchy/carry-select-adder/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "modules-hierarchy-adder-subtractor",
+    "nome": "Adder-Subtractor",
+    "topico": "Módulos e hierarquia",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verilog-language/modules-hierarchy/adder-subtractor/"
+   },
+   {
+    "tipo": "bloco",
+    "id": "02-meio-somador",
+    "nome": "02-meio-somador",
+    "topico": "Módulos e hierarquia",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 10,
+  "data": "2026-12-05",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "03-somador-completo",
+    "nome": "03-somador-completo",
+    "topico": "Módulos e hierarquia",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "05-somador-4bits",
+    "nome": "05-somador-4bits",
+    "topico": "Módulos e hierarquia",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "31-ula",
+    "nome": "31-ula",
+    "topico": "ULA (trabalho final, entrega 09/12)",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 11,
+  "data": "2026-12-06",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "building-larger-circuits-alu-4bit",
+    "nome": "4-bit ALU",
+    "topico": "ULA (trabalho final, entrega 09/12)",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/building-larger-circuits/alu-4bit/"
+   },
+   {
+    "tipo": "ula",
+    "id": "ula-1",
+    "nome": "ULA 8 bits: RTL",
+    "topico": "ULA (trabalho final, entrega 09/12)",
+    "peso": 4,
+    "origem": "trabalho final de Lógica Digital (CI Inovador)"
+   }
+  ]
+ },
+ {
+  "dia": 12,
+  "data": "2026-12-07",
+  "itens": [
+   {
+    "tipo": "ula",
+    "id": "ula-2",
+    "nome": "ULA 8 bits: testbench e ondas",
+    "topico": "ULA (trabalho final, entrega 09/12)",
+    "peso": 4,
+    "origem": "trabalho final de Lógica Digital (CI Inovador)"
+   },
+   {
+    "tipo": "ula",
+    "id": "ula-3",
+    "nome": "ULA 8 bits: síntese TCL nas duas tecnologias e netlist",
+    "topico": "ULA (trabalho final, entrega 09/12)",
+    "peso": 4,
+    "origem": "trabalho final de Lógica Digital (CI Inovador)"
+   }
+  ]
+ },
+ {
+  "dia": 13,
+  "data": "2026-12-08",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-adder-3bit",
+    "nome": "3-Bit Binary Adder",
+    "topico": "Aritmética",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/adder-3bit/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-adder-32bit",
+    "nome": "32-Bit Adder",
+    "topico": "Aritmética",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/adder-32bit/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-signed-overflow",
+    "nome": "Signed Addition Overflow",
+    "topico": "Aritmética",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/signed-overflow/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-adder-100bit",
+    "nome": "100-Bit Binary Adder",
+    "topico": "Aritmética",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/adder-100bit/"
+   }
+  ]
+ },
+ {
+  "dia": 14,
+  "data": "2026-12-09",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "more-features-generate-100bit-adder",
+    "nome": "100-Bit Ripple-Carry Adder with Carry Outputs",
+    "topico": "Aritmética",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verilog-language/more-features/generate-100bit-adder/"
+   },
+   {
+    "tipo": "bloco",
+    "id": "04-subtratores",
+    "nome": "04-subtratores",
+    "topico": "Aritmética",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "06-somador-subtrator",
+    "nome": "06-somador-subtrator",
+    "topico": "Aritmética",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 15,
+  "data": "2026-12-10",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "07-comparador",
+    "nome": "07-comparador",
+    "topico": "Aritmética",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "08-comparador-com-sinal",
+    "nome": "08-comparador-com-sinal",
+    "topico": "Aritmética",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "09-carry-lookahead",
+    "nome": "09-carry-lookahead",
+    "topico": "Aritmética",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 16,
+  "data": "2026-12-11",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "10-carry-save",
+    "nome": "10-carry-save",
+    "topico": "Aritmética",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "11-multiplicador-combinacional",
+    "nome": "11-multiplicador-combinacional",
+    "topico": "Aritmética",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "procedures-combinational-process",
+    "nome": "Always Blocks: Combinational",
+    "topico": "always, if e case",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/procedures/combinational-process/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "procedures-priority-encoder",
+    "nome": "Priority Encoder (if/else)",
+    "topico": "always, if e case",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verilog-language/procedures/priority-encoder/"
+   }
+  ]
+ },
+ {
+  "dia": 17,
+  "data": "2026-12-12",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "procedures-case-decoder",
+    "nome": "3-to-8 Decoder (case statement)",
+    "topico": "always, if e case",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verilog-language/procedures/case-decoder/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "procedures-clocked-register",
+    "nome": "Always Blocks: Clocked",
+    "topico": "always, if e case",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/procedures/clocked-register/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "procedures-popcount-for-loop",
+    "nome": "Population Count (for loop)",
+    "topico": "always, if e case",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verilog-language/procedures/popcount-for-loop/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "procedures-min-max",
+    "nome": "Min/Max of Four Values",
+    "topico": "always, if e case",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verilog-language/procedures/min-max/"
+   }
+  ]
+ },
+ {
+  "dia": 18,
+  "data": "2026-12-13",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "procedures-conditional-mux",
+    "nome": "If Statement: Conditional Selection",
+    "topico": "always, if e case",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/procedures/conditional-mux/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "procedures-transparent-latch",
+    "nome": "Transparent Latch",
+    "topico": "always, if e case",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verilog-language/procedures/transparent-latch/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "procedures-case-mux",
+    "nome": "Case-Based Multiplexer",
+    "topico": "always, if e case",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/procedures/case-mux/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "procedures-priority-encoder-casez",
+    "nome": "Priority Encoder with Wildcards",
+    "topico": "always, if e case",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verilog-language/procedures/priority-encoder-casez/"
+   }
+  ]
+ },
+ {
+  "dia": 19,
+  "data": "2026-12-14",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "procedures-complete-case",
+    "nome": "Complete Combinational Decode",
+    "topico": "always, if e case",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/procedures/complete-case/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "procedures-avoid-latches",
+    "nome": "If Statement: Avoiding Latches",
+    "topico": "always, if e case",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/procedures/avoid-latches/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "more-features-ternary-mux4",
+    "nome": "4-to-1 Mux with the Ternary Operator",
+    "topico": "Mais recursos da linguagem",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verilog-language/more-features/ternary-mux4/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "more-features-parity-reduction",
+    "nome": "Parity Generator (reduction operators)",
+    "topico": "Mais recursos da linguagem",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verilog-language/more-features/parity-reduction/"
+   }
+  ]
+ },
+ {
+  "dia": 20,
+  "data": "2026-12-15",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "more-features-generate-xor-ring",
+    "nome": "Parameterized XOR Ring (generate)",
+    "topico": "Mais recursos da linguagem",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/more-features/generate-xor-ring/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "more-features-reduction-wide",
+    "nome": "Wide Reduction Gates",
+    "topico": "Mais recursos da linguagem",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/more-features/reduction-wide/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "more-features-generate-bcd-adder",
+    "nome": "Generated BCD Adder",
+    "topico": "Mais recursos da linguagem",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/more-features/generate-bcd-adder/"
+   }
+  ]
+ },
+ {
+  "dia": 21,
+  "data": "2026-12-16",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "more-features-generate-100digit-bcd",
+    "nome": "100-Digit BCD Ripple-Carry Adder",
+    "topico": "Mais recursos da linguagem",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/more-features/generate-100digit-bcd/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "more-features-vector-reversal-100bit",
+    "nome": "100-Bit Vector Reversal",
+    "topico": "Mais recursos da linguagem",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verilog-language/more-features/vector-reversal-100bit/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "more-features-popcount-255",
+    "nome": "255-Bit Population Count",
+    "topico": "Mais recursos da linguagem",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/verilog-language/more-features/popcount-255/"
+   }
+  ]
+ },
+ {
+  "dia": 22,
+  "data": "2026-12-17",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-bcd-adder-4digit",
+    "nome": "4-Digit BCD Adder",
+    "topico": "BCD e códigos",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/bcd-adder-4digit/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-bcd-7seg",
+    "nome": "BCD to 7-Segment Display Decoder",
+    "topico": "BCD e códigos",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/bcd-7seg/"
+   },
+   {
+    "tipo": "bloco",
+    "id": "12-somador-bcd",
+    "nome": "12-somador-bcd",
+    "topico": "BCD e códigos",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 23,
+  "data": "2026-12-18",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "13-bcd-excesso3",
+    "nome": "13-bcd-excesso3",
+    "topico": "BCD e códigos",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "14-binario-para-bcd",
+    "nome": "14-binario-para-bcd",
+    "topico": "BCD e códigos",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "20-sete-segmentos",
+    "nome": "20-sete-segmentos",
+    "topico": "BCD e códigos",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 24,
+  "data": "2026-12-19",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "24-codigo-gray",
+    "nome": "24-codigo-gray",
+    "topico": "BCD e códigos",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "29-paridade",
+    "nome": "29-paridade",
+    "topico": "BCD e códigos",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "30-conta-votos",
+    "nome": "30-conta-votos",
+    "topico": "BCD e códigos",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 25,
+  "data": "2026-12-20",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-mux2to1-gates",
+    "nome": "2-to-1 Multiplexer (Gate-Level)",
+    "topico": "Mux, decodificador e codificador",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/mux2to1-gates/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-mux4to1",
+    "nome": "4-to-1 Multiplexer",
+    "topico": "Mux, decodificador e codificador",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/mux4to1/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-priority-encoder-4bit",
+    "nome": "4-bit Priority Encoder",
+    "topico": "Mux, decodificador e codificador",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/priority-encoder-4bit/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-comparator-8bit",
+    "nome": "8-bit Magnitude Comparator",
+    "topico": "Mux, decodificador e codificador",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/comparator-8bit/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-barrel-shifter-4bit",
+    "nome": "4-bit Barrel Shifter (Rotate Left)",
+    "topico": "Mux, decodificador e codificador",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/barrel-shifter-4bit/"
+   }
+  ]
+ },
+ {
+  "dia": 26,
+  "data": "2026-12-21",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-two-bit-equality",
+    "nome": "Two-Bit Equality",
+    "topico": "Mux, decodificador e codificador",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/two-bit-equality/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-bus-mux2",
+    "nome": "2-to-1 Bus Multiplexer",
+    "topico": "Mux, decodificador e codificador",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/bus-mux2/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-mux9to1",
+    "nome": "9-to-1 Multiplexer",
+    "topico": "Mux, decodificador e codificador",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/mux9to1/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-mux256to1",
+    "nome": "256-to-1 Multiplexer",
+    "topico": "Mux, decodificador e codificador",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/mux256to1/"
+   }
+  ]
+ },
+ {
+  "dia": 27,
+  "data": "2026-12-22",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-mux256x4",
+    "nome": "256-to-1 4-Bit Multiplexer",
+    "topico": "Mux, decodificador e codificador",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/mux256x4/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-kmap-mux",
+    "nome": "K-map Function Using Multiplexers",
+    "topico": "Mux, decodificador e codificador",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/kmap-mux/"
+   },
+   {
+    "tipo": "bloco",
+    "id": "15-mux",
+    "nome": "15-mux",
+    "topico": "Mux, decodificador e codificador",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 28,
+  "data": "2026-12-23",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "16-demux",
+    "nome": "16-demux",
+    "topico": "Mux, decodificador e codificador",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "17-mux-parametrizado",
+    "nome": "17-mux-parametrizado",
+    "topico": "Mux, decodificador e codificador",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "18-decodificador",
+    "nome": "18-decodificador",
+    "topico": "Mux, decodificador e codificador",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 29,
+  "data": "2026-12-24",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "19-decodificador-parametrizado",
+    "nome": "19-decodificador-parametrizado",
+    "topico": "Mux, decodificador e codificador",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "21-codificador-prioridade",
+    "nome": "21-codificador-prioridade",
+    "topico": "Mux, decodificador e codificador",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "22-codificadores",
+    "nome": "22-codificadores",
+    "topico": "Mux, decodificador e codificador",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 30,
+  "data": "2026-12-25",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "23-arbitro",
+    "nome": "23-arbitro",
+    "topico": "Mux, decodificador e codificador",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "25-deslocador",
+    "nome": "25-deslocador",
+    "topico": "Mux, decodificador e codificador",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "26-rotacao",
+    "nome": "26-rotacao",
+    "topico": "Mux, decodificador e codificador",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 31,
+  "data": "2026-12-26",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "27-barramento-tristate",
+    "nome": "27-barramento-tristate",
+    "topico": "Mux, decodificador e codificador",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "28-rom",
+    "nome": "28-rom",
+    "topico": "Mux, decodificador e codificador",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-basic-wire",
+    "nome": "Wire",
+    "topico": "Portas, tabela-verdade e Karnaugh",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/basic-wire/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-ground",
+    "nome": "Ground",
+    "topico": "Portas, tabela-verdade e Karnaugh",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/ground/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-nor-gate",
+    "nome": "NOR",
+    "topico": "Portas, tabela-verdade e Karnaugh",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/nor-gate/"
+   }
+  ]
+ },
+ {
+  "dia": 32,
+  "data": "2026-12-27",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-another-gate",
+    "nome": "Another Gate",
+    "topico": "Portas, tabela-verdade e Karnaugh",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/another-gate/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-kmap-minimal-circuit",
+    "nome": "Karnaugh Map Function",
+    "topico": "Portas, tabela-verdade e Karnaugh",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/kmap-minimal-circuit/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-two-gates",
+    "nome": "Two Gates",
+    "topico": "Portas, tabela-verdade e Karnaugh",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/two-gates/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-more-logic-gates",
+    "nome": "More Logic Gates",
+    "topico": "Portas, tabela-verdade e Karnaugh",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/more-logic-gates/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-7420-chip",
+    "nome": "7420 Chip",
+    "topico": "Portas, tabela-verdade e Karnaugh",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/7420-chip/"
+   }
+  ]
+ },
+ {
+  "dia": 33,
+  "data": "2026-12-28",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-simple-circuit-a",
+    "nome": "Simple Circuit A",
+    "topico": "Portas, tabela-verdade e Karnaugh",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/simple-circuit-a/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-simple-circuit-b",
+    "nome": "Simple Circuit B",
+    "topico": "Portas, tabela-verdade e Karnaugh",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/simple-circuit-b/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-combine-two-circuits",
+    "nome": "Combine Two Circuits",
+    "topico": "Portas, tabela-verdade e Karnaugh",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/combine-two-circuits/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-ring-or-vibrate",
+    "nome": "Ring or Vibrate?",
+    "topico": "Portas, tabela-verdade e Karnaugh",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/ring-or-vibrate/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-thermostat",
+    "nome": "Thermostat",
+    "topico": "Portas, tabela-verdade e Karnaugh",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/thermostat/"
+   }
+  ]
+ },
+ {
+  "dia": 34,
+  "data": "2026-12-29",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-popcount-3bit",
+    "nome": "3-Bit Population Count",
+    "topico": "Portas, tabela-verdade e Karnaugh",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/popcount-3bit/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-kmap-3var",
+    "nome": "3-Variable Karnaugh Map",
+    "topico": "Portas, tabela-verdade e Karnaugh",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/kmap-3var/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-kmap-4var-a",
+    "nome": "4-Variable Karnaugh Map 1",
+    "topico": "Portas, tabela-verdade e Karnaugh",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/kmap-4var-a/"
+   }
+  ]
+ },
+ {
+  "dia": 35,
+  "data": "2026-12-30",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-kmap-4var-b",
+    "nome": "4-Variable Karnaugh Map 2",
+    "topico": "Portas, tabela-verdade e Karnaugh",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/kmap-4var-b/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-kmap-4var-c",
+    "nome": "4-Variable Karnaugh Map 3",
+    "topico": "Portas, tabela-verdade e Karnaugh",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/kmap-4var-c/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-kmap-sop-pos",
+    "nome": "Minimum SOP and POS Forms",
+    "topico": "Portas, tabela-verdade e Karnaugh",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/kmap-sop-pos/"
+   }
+  ]
+ },
+ {
+  "dia": 36,
+  "data": "2026-12-31",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-truth-tables",
+    "nome": "Truth Tables",
+    "topico": "Portas, tabela-verdade e Karnaugh",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/truth-tables/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-even-longer-vectors",
+    "nome": "Even Longer Vectors",
+    "topico": "Portas, tabela-verdade e Karnaugh",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/even-longer-vectors/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "combinational-logic-kmap-additional",
+    "nome": "Karnaugh Map with Don't-Cares",
+    "topico": "Portas, tabela-verdade e Karnaugh",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/combinational-logic/kmap-additional/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-sr-latch",
+    "nome": "SR Latch (Gate-Level)",
+    "topico": "Latches e flip-flops",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/sr-latch/"
+   }
+  ]
+ },
+ {
+  "dia": 37,
+  "data": "2027-01-01",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-dff-async-reset",
+    "nome": "D Flip-Flop with Asynchronous Reset",
+    "topico": "Latches e flip-flops",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/dff-async-reset/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-dff-sync-reset-enable",
+    "nome": "D Flip-Flop with Synchronous Reset and Enable",
+    "topico": "Latches e flip-flops",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/dff-sync-reset-enable/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-dff-basic",
+    "nome": "D Flip-Flop",
+    "topico": "Latches e flip-flops",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/dff-basic/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-dff-vector",
+    "nome": "D Flip-Flops",
+    "topico": "Latches e flip-flops",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/dff-vector/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-dff-sync-reset",
+    "nome": "DFF with Synchronous Reset",
+    "topico": "Latches e flip-flops",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/dff-sync-reset/"
+   }
+  ]
+ },
+ {
+  "dia": 38,
+  "data": "2027-01-02",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-dff-reset-value",
+    "nome": "DFF with Configurable Reset Value",
+    "topico": "Latches e flip-flops",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/dff-reset-value/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-dff-byte-enable",
+    "nome": "DFF with Byte Enable",
+    "topico": "Latches e flip-flops",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/dff-byte-enable/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-d-latch",
+    "nome": "D Latch",
+    "topico": "Latches e flip-flops",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/d-latch/"
+   }
+  ]
+ },
+ {
+  "dia": 39,
+  "data": "2027-01-03",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-dff-gated",
+    "nome": "D Flip-Flop",
+    "topico": "Latches e flip-flops",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/dff-gated/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-mux-and-dff",
+    "nome": "MUXDFF Primitive",
+    "topico": "Latches e flip-flops",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/mux-and-dff/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-detect-rising-edge",
+    "nome": "Detect a Rising Edge",
+    "topico": "Latches e flip-flops",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/detect-rising-edge/"
+   }
+  ]
+ },
+ {
+  "dia": 40,
+  "data": "2027-01-04",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-detect-both-edges",
+    "nome": "Detect Both Edges",
+    "topico": "Latches e flip-flops",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/detect-both-edges/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-edge-capture",
+    "nome": "Edge Capture Register",
+    "topico": "Latches e flip-flops",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/edge-capture/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-dual-edge-register",
+    "nome": "Dual-Edge Register",
+    "topico": "Latches e flip-flops",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/dual-edge-register/"
+   }
+  ]
+ },
+ {
+  "dia": 41,
+  "data": "2027-01-05",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-three-input-lut",
+    "nome": "3-Input Lookup Table",
+    "topico": "Latches e flip-flops",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/three-input-lut/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-mux-dff-enable",
+    "nome": "MUXDFF Shift-Register Stage",
+    "topico": "Latches e flip-flops",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/mux-dff-enable/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-dffs-and-gates",
+    "nome": "DFFs and Gates",
+    "topico": "Latches e flip-flops",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/dffs-and-gates/"
+   }
+  ]
+ },
+ {
+  "dia": 42,
+  "data": "2027-01-06",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "32-latches",
+    "nome": "32-latches",
+    "topico": "Latches e flip-flops",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "33-flip-flop-sr",
+    "nome": "33-flip-flop-sr",
+    "topico": "Latches e flip-flops",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "34-mestre-escravo",
+    "nome": "34-mestre-escravo",
+    "topico": "Latches e flip-flops",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 43,
+  "data": "2027-01-07",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "35-flip-flop-d",
+    "nome": "35-flip-flop-d",
+    "topico": "Latches e flip-flops",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "36-flip-flop-jk-t",
+    "nome": "36-flip-flop-jk-t",
+    "topico": "Latches e flip-flops",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "37-registrador",
+    "nome": "37-registrador",
+    "topico": "Latches e flip-flops",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 44,
+  "data": "2027-01-08",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "49-borda-e-divisor",
+    "nome": "49-borda-e-divisor",
+    "topico": "Latches e flip-flops",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "50-sincronizador-debounce",
+    "nome": "50-sincronizador-debounce",
+    "topico": "Latches e flip-flops",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-universal-shift-register",
+    "nome": "Four-Bit Loadable Shift Register",
+    "topico": "Registradores de deslocamento e LFSR",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/universal-shift-register/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-shift-register-4bit",
+    "nome": "Four-Stage Shift Register with Reset",
+    "topico": "Registradores de deslocamento e LFSR",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/shift-register-4bit/"
+   }
+  ]
+ },
+ {
+  "dia": 45,
+  "data": "2027-01-09",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-left-right-rotator",
+    "nome": "Left/Right Rotator",
+    "topico": "Registradores de deslocamento e LFSR",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/left-right-rotator/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-arithmetic-shift",
+    "nome": "Arithmetic Shift by 1 or 8",
+    "topico": "Registradores de deslocamento e LFSR",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/arithmetic-shift/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-lfsr-5bit",
+    "nome": "5-Bit LFSR",
+    "topico": "Registradores de deslocamento e LFSR",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/lfsr-5bit/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-lfsr-3bit",
+    "nome": "3-Bit LFSR",
+    "topico": "Registradores de deslocamento e LFSR",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/lfsr-3bit/"
+   }
+  ]
+ },
+ {
+  "dia": 46,
+  "data": "2027-01-10",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-lfsr-32bit",
+    "nome": "32-Bit LFSR",
+    "topico": "Registradores de deslocamento e LFSR",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/lfsr-32bit/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-shift-register-enable",
+    "nome": "Enabled Shift Register",
+    "topico": "Registradores de deslocamento e LFSR",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/shift-register-enable/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-shift-register-reversible",
+    "nome": "Bidirectional Shift Register",
+    "topico": "Registradores de deslocamento e LFSR",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/shift-register-reversible/"
+   }
+  ]
+ },
+ {
+  "dia": 47,
+  "data": "2027-01-11",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-rule-90",
+    "nome": "Rule 90 Cellular Automaton",
+    "topico": "Registradores de deslocamento e LFSR",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/rule-90/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-rule-110",
+    "nome": "Rule 110 Cellular Automaton",
+    "topico": "Registradores de deslocamento e LFSR",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/rule-110/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-conway-life-16x16",
+    "nome": "Conway's Game of Life 16x16",
+    "topico": "Registradores de deslocamento e LFSR",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/conway-life-16x16/"
+   }
+  ]
+ },
+ {
+  "dia": 48,
+  "data": "2027-01-12",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "38-registradores-siso-sipo-piso-pipo",
+    "nome": "38-registradores-siso-sipo-piso-pipo",
+    "topico": "Registradores de deslocamento e LFSR",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "39-registrador-deslocamento",
+    "nome": "39-registrador-deslocamento",
+    "topico": "Registradores de deslocamento e LFSR",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "48-lfsr",
+    "nome": "48-lfsr",
+    "topico": "Registradores de deslocamento e LFSR",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 49,
+  "data": "2027-01-13",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-updown-counter-4bit",
+    "nome": "4-bit Up/Down Counter",
+    "topico": "Contadores",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/updown-counter-4bit/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-decade-counter",
+    "nome": "Decade (Mod-10) Counter",
+    "topico": "Contadores",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/decade-counter/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-counter-1-to-12",
+    "nome": "Counter 1 to 12",
+    "topico": "Contadores",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/counter-1-to-12/"
+   }
+  ]
+ },
+ {
+  "dia": 50,
+  "data": "2027-01-14",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-counter-1000",
+    "nome": "Counter 1000",
+    "topico": "Contadores",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/counter-1000/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-slow-decade-counter",
+    "nome": "Slow Decade Counter",
+    "topico": "Contadores",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/slow-decade-counter/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-decimal-counter-4digit",
+    "nome": "4-Digit Decimal Counter",
+    "topico": "Contadores",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/decimal-counter-4digit/"
+   }
+  ]
+ },
+ {
+  "dia": 51,
+  "data": "2027-01-15",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-clock-12hour",
+    "nome": "12-Hour Clock",
+    "topico": "Contadores",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/clock-12hour/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-binary-counter-4bit",
+    "nome": "Four-Bit Binary Counter",
+    "topico": "Contadores",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/binary-counter-4bit/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-decade-counter-enabled",
+    "nome": "Decade Counter with Enable",
+    "topico": "Contadores",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/decade-counter-enabled/"
+   }
+  ]
+ },
+ {
+  "dia": 52,
+  "data": "2027-01-16",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-decade-counter-again",
+    "nome": "Decade Counter Again",
+    "topico": "Contadores",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/decade-counter-again/"
+   },
+   {
+    "tipo": "bloco",
+    "id": "40-contador-crescente",
+    "nome": "40-contador-crescente",
+    "topico": "Contadores",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "41-contador-up-down",
+    "nome": "41-contador-up-down",
+    "topico": "Contadores",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 53,
+  "data": "2027-01-17",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "42-contador-modulo-n",
+    "nome": "42-contador-modulo-n",
+    "topico": "Contadores",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "43-contador-que-pula",
+    "nome": "43-contador-que-pula",
+    "topico": "Contadores",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "44-contador-decrescente-carga",
+    "nome": "44-contador-decrescente-carga",
+    "topico": "Contadores",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 54,
+  "data": "2027-01-18",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "45-contador-assincrono",
+    "nome": "45-contador-assincrono",
+    "topico": "Contadores",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "46-contador-anel-johnson",
+    "nome": "46-contador-anel-johnson",
+    "topico": "Contadores",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "47-contador-bcd-00-99",
+    "nome": "47-contador-bcd-00-99",
+    "topico": "Contadores",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 55,
+  "data": "2027-01-19",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-moore-fsm-sequence-detector",
+    "nome": "Moore FSM: Non-Overlapping Sequence Detector (1011)",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/moore-fsm-sequence-detector/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-mealy-fsm-sequence-detector",
+    "nome": "Mealy FSM: Overlapping Sequence Detector (1011)",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/mealy-fsm-sequence-detector/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-simple-fsm1-async",
+    "nome": "Simple FSM 1 (Asynchronous Reset)",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/simple-fsm1-async/"
+   }
+  ]
+ },
+ {
+  "dia": 56,
+  "data": "2027-01-20",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-simple-fsm1-sync",
+    "nome": "Simple FSM 1 (Synchronous Reset)",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/simple-fsm1-sync/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-simple-fsm2-async",
+    "nome": "Simple FSM 2 (Asynchronous Reset)",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/simple-fsm2-async/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-simple-fsm2-sync",
+    "nome": "Simple FSM 2 (Synchronous Reset)",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/simple-fsm2-sync/"
+   }
+  ]
+ },
+ {
+  "dia": 57,
+  "data": "2027-01-21",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-one-hot-transitions",
+    "nome": "Simple One-Hot State Transitions",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/one-hot-transitions/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-moore-fsm",
+    "nome": "Design a Moore FSM",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/moore-fsm/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-simple-fsm3-async",
+    "nome": "Simple FSM 3 (Asynchronous Reset)",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/simple-fsm3-async/"
+   }
+  ]
+ },
+ {
+  "dia": 58,
+  "data": "2027-01-22",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-simple-fsm3-sync",
+    "nome": "Simple FSM 3 (Synchronous Reset)",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/simple-fsm3-sync/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-lemmings-walk",
+    "nome": "Lemmings 1: Walk",
+    "topico": "Máquinas de estado",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/lemmings-walk/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-lemmings-bump",
+    "nome": "Lemmings 2: Bump",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/lemmings-bump/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-lemmings-fall",
+    "nome": "Lemmings 3: Fall",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/lemmings-fall/"
+   }
+  ]
+ },
+ {
+  "dia": 59,
+  "data": "2027-01-23",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-lemmings-complete",
+    "nome": "Lemmings 4: Bump and Fall",
+    "topico": "Máquinas de estado",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/lemmings-complete/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-state-transitions-3",
+    "nome": "Simple State Transitions 3",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/state-transitions-3/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-one-hot-fsm",
+    "nome": "One-Hot FSM",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/one-hot-fsm/"
+   }
+  ]
+ },
+ {
+  "dia": 60,
+  "data": "2027-01-24",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-sequence-recognition",
+    "nome": "HDLC Bit-Pattern Recognition",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/sequence-recognition/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-mealy-fsm-q8",
+    "nome": "Q8: Design a Mealy FSM",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/mealy-fsm-q8/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-fsm-q3a",
+    "nome": "Q3a: Three-Cycle FSM Pattern Detector",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/fsm-q3a/"
+   }
+  ]
+ },
+ {
+  "dia": 61,
+  "data": "2027-01-25",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-fsm-q3b",
+    "nome": "Q3b: FSM from a State Table",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/fsm-q3b/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-fsm-q3c",
+    "nome": "Q3c: FSM Output and Next-State Logic",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/fsm-q3c/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-fsm-q6",
+    "nome": "Q6: Six-State Moore FSM",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/fsm-q6/"
+   }
+  ]
+ },
+ {
+  "dia": 62,
+  "data": "2027-01-26",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-fsm-q6b-next-state",
+    "nome": "Q6b: Binary Next-State Bit Y2",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/fsm-q6b-next-state/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-fsm-q6c-onehot",
+    "nome": "Q6c: One-Hot Next-State Signals",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/fsm-q6c-onehot/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-fsm-q2a",
+    "nome": "Q2a: Six-State Moore FSM",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/fsm-q2a/"
+   }
+  ]
+ },
+ {
+  "dia": 63,
+  "data": "2027-01-27",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-fsm-q2b-onehot",
+    "nome": "Q2b: One-Hot Next-State Equations",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/fsm-q2b-onehot/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-fsm-q2a-alternate",
+    "nome": "Q2a: Another FSM",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/fsm-q2a-alternate/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-fsm-q2b-alternate",
+    "nome": "Q2b: Motor-Control FSM",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/fsm-q2b-alternate/"
+   }
+  ]
+ },
+ {
+  "dia": 64,
+  "data": "2027-01-28",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-create-from-truth-table",
+    "nome": "Create Circuit from Truth Table",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/create-from-truth-table/"
+   },
+   {
+    "tipo": "bloco",
+    "id": "51-fsm-detector-1011",
+    "nome": "51-fsm-detector-1011",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "52-fsm-mealy-1101",
+    "nome": "52-fsm-mealy-1101",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 65,
+  "data": "2027-01-29",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "53-fsm-divisor-por-3",
+    "nome": "53-fsm-divisor-por-3",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "54-moore-vs-mealy",
+    "nome": "54-moore-vs-mealy",
+    "topico": "Máquinas de estado",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "ld",
+    "id": "a07-duas-sinaleiras",
+    "nome": "Duas sinaleiras num cruzamento",
+    "topico": "Máquinas de estado",
+    "peso": 3,
+    "origem": "atividade de Lógica Digital (CI Inovador)"
+   }
+  ]
+ },
+ {
+  "dia": 66,
+  "data": "2027-01-30",
+  "itens": [
+   {
+    "tipo": "ld",
+    "id": "a07-semaforo-pedestre",
+    "nome": "Semáforo com pedestre",
+    "topico": "Máquinas de estado",
+    "peso": 3,
+    "origem": "atividade de Lógica Digital (CI Inovador)"
+   },
+   {
+    "tipo": "ld",
+    "id": "a09-detector-pulsos",
+    "nome": "Detector de 3 subidas em a ou b",
+    "topico": "Máquinas de estado",
+    "peso": 3,
+    "origem": "atividade de Lógica Digital (CI Inovador)"
+   }
+  ]
+ },
+ {
+  "dia": 67,
+  "data": "2027-01-31",
+  "itens": [
+   {
+    "tipo": "ld",
+    "id": "a09-semaforo-completo",
+    "nome": "Semáforo completo",
+    "topico": "Máquinas de estado",
+    "peso": 3,
+    "origem": "atividade de Lógica Digital (CI Inovador)"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-serial-twos-complement-mealy",
+    "nome": "Serial Two's Complementer (Mealy FSM)",
+    "topico": "Serial: UART e PS/2",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/serial-twos-complement-mealy/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-serial-twos-complement-moore",
+    "nome": "Serial Two's Complementer (Moore FSM)",
+    "topico": "Serial: UART e PS/2",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/serial-twos-complement-moore/"
+   }
+  ]
+ },
+ {
+  "dia": 68,
+  "data": "2027-02-01",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-serial-receiver",
+    "nome": "Serial Receiver",
+    "topico": "Serial: UART e PS/2",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/serial-receiver/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-serial-receiver-datapath",
+    "nome": "Serial Receiver and Datapath",
+    "topico": "Serial: UART e PS/2",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/serial-receiver-datapath/"
+   }
+  ]
+ },
+ {
+  "dia": 69,
+  "data": "2027-02-02",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-serial-receiver-parity",
+    "nome": "Serial Receiver with Parity Checking",
+    "topico": "Serial: UART e PS/2",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/serial-receiver-parity/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-ps2-packet-parser",
+    "nome": "PS/2 Packet Parser",
+    "topico": "Serial: UART e PS/2",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/ps2-packet-parser/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "sequential-logic-ps2-parser-datapath",
+    "nome": "PS/2 Packet Parser and 3-Byte Datapath",
+    "topico": "Serial: UART e PS/2",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/circuits/sequential-logic/ps2-parser-datapath/"
+   }
+  ]
+ },
+ {
+  "dia": 70,
+  "data": "2027-02-03",
+  "itens": [
+   {
+    "tipo": "ld",
+    "id": "a09-uart-codificador",
+    "nome": "Codificador UART",
+    "topico": "Serial: UART e PS/2",
+    "peso": 3,
+    "origem": "atividade de Lógica Digital (CI Inovador)"
+   },
+   {
+    "tipo": "ld",
+    "id": "a09-uart",
+    "nome": "Decodificador UART",
+    "topico": "Serial: UART e PS/2",
+    "peso": 3,
+    "origem": "atividade de Lógica Digital (CI Inovador)"
+   }
+  ]
+ },
+ {
+  "dia": 71,
+  "data": "2027-02-04",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "62-uart-tx",
+    "nome": "62-uart-tx",
+    "topico": "Serial: UART e PS/2",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "63-uart-rx",
+    "nome": "63-uart-rx",
+    "topico": "Serial: UART e PS/2",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "building-larger-circuits-traffic-light-controller",
+    "nome": "Traffic Light Controller",
+    "topico": "Circuitos maiores",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/building-larger-circuits/traffic-light-controller/"
+   }
+  ]
+ },
+ {
+  "dia": 72,
+  "data": "2027-02-05",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "building-larger-circuits-simple-datapath",
+    "nome": "Simple Datapath: Register File + ALU + Writeback",
+    "topico": "Circuitos maiores",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/circuits/building-larger-circuits/simple-datapath/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "building-larger-circuits-uart-lite-transmitter",
+    "nome": "UART-Lite Transmitter",
+    "topico": "Circuitos maiores",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/circuits/building-larger-circuits/uart-lite-transmitter/"
+   }
+  ]
+ },
+ {
+  "dia": 73,
+  "data": "2027-02-06",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "building-larger-circuits-priority-arbiter",
+    "nome": "Three-Request Priority Arbiter",
+    "topico": "Circuitos maiores",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/building-larger-circuits/priority-arbiter/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "building-larger-circuits-counter-period-1000",
+    "nome": "Counter with Period 1000",
+    "topico": "Circuitos maiores",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/building-larger-circuits/counter-period-1000/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "building-larger-circuits-shift-register-down-counter",
+    "nome": "4-Bit Shift Register and Down Counter",
+    "topico": "Circuitos maiores",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/building-larger-circuits/shift-register-down-counter/"
+   }
+  ]
+ },
+ {
+  "dia": 74,
+  "data": "2027-02-07",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "building-larger-circuits-sequence-1101",
+    "nome": "FSM: Sequence 1101 Recognizer",
+    "topico": "Circuitos maiores",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/building-larger-circuits/sequence-1101/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "building-larger-circuits-fsm-enable-shift",
+    "nome": "FSM: Enable Shift Register",
+    "topico": "Circuitos maiores",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/building-larger-circuits/fsm-enable-shift/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "building-larger-circuits-complete-timer",
+    "nome": "The Complete Timer",
+    "topico": "Circuitos maiores",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/circuits/building-larger-circuits/complete-timer/"
+   }
+  ]
+ },
+ {
+  "dia": 75,
+  "data": "2027-02-08",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "building-larger-circuits-fsm-onehot-equations",
+    "nome": "FSM: One-Hot Logic Equations",
+    "topico": "Circuitos maiores",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/circuits/building-larger-circuits/fsm-onehot-equations/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "building-larger-circuits-fsm-complete",
+    "nome": "FSM: The Complete FSM",
+    "topico": "Circuitos maiores",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/circuits/building-larger-circuits/fsm-complete/"
+   },
+   {
+    "tipo": "bloco",
+    "id": "58-pwm",
+    "nome": "58-pwm",
+    "topico": "Circuitos maiores",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 76,
+  "data": "2027-02-09",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "59-acumulador",
+    "nome": "59-acumulador",
+    "topico": "Circuitos maiores",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "60-multiplicador-sequencial",
+    "nome": "60-multiplicador-sequencial",
+    "topico": "Circuitos maiores",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "61-divisor-sequencial",
+    "nome": "61-divisor-sequencial",
+    "topico": "Circuitos maiores",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 77,
+  "data": "2027-02-10",
+  "itens": [
+   {
+    "tipo": "problema",
+    "id": "p1-cronometro",
+    "nome": "Cronômetro",
+    "topico": "Circuitos maiores",
+    "peso": 6,
+    "origem": "problema grande do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 78,
+  "data": "2027-02-11",
+  "itens": [
+   {
+    "tipo": "problema",
+    "id": "p2-semaforo",
+    "nome": "Semáforo",
+    "topico": "Circuitos maiores",
+    "peso": 6,
+    "origem": "problema grande do meu estudo"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "reading-simulations-identify-the-gate",
+    "nome": "Identify the Gate",
+    "topico": "Lendo simulações",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verification/reading-simulations/identify-the-gate/"
+   }
+  ]
+ },
+ {
+  "dia": 79,
+  "data": "2027-02-12",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "reading-simulations-counting-sequence",
+    "nome": "Infer the Counter",
+    "topico": "Lendo simulações",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verification/reading-simulations/counting-sequence/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "reading-simulations-infer-the-mux",
+    "nome": "Infer the Mux",
+    "topico": "Lendo simulações",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verification/reading-simulations/infer-the-mux/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "reading-simulations-edge-detector-trace",
+    "nome": "Infer the Edge Detector",
+    "topico": "Lendo simulações",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verification/reading-simulations/edge-detector-trace/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "reading-simulations-buggy-mux-2to1",
+    "nome": "Find the Bug: 2-to-1 Mux",
+    "topico": "Lendo simulações",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verification/reading-simulations/buggy-mux-2to1/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "reading-simulations-buggy-nand",
+    "nome": "Find the Bug: NAND Gate",
+    "topico": "Lendo simulações",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verification/reading-simulations/buggy-nand/"
+   }
+  ]
+ },
+ {
+  "dia": 80,
+  "data": "2027-02-13",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "reading-simulations-buggy-mux4",
+    "nome": "Find the Bug: 4-to-1 Mux",
+    "topico": "Lendo simulações",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verification/reading-simulations/buggy-mux4/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "reading-simulations-buggy-add-sub",
+    "nome": "Find the Bug: Add/Subtract",
+    "topico": "Lendo simulações",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verification/reading-simulations/buggy-add-sub/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "reading-simulations-buggy-case",
+    "nome": "Find the Bug: Case Decoder",
+    "topico": "Lendo simulações",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verification/reading-simulations/buggy-case/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "reading-simulations-combinational-1",
+    "nome": "Combinational Circuit 1",
+    "topico": "Lendo simulações",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verification/reading-simulations/combinational-1/"
+   }
+  ]
+ },
+ {
+  "dia": 81,
+  "data": "2027-02-14",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "reading-simulations-combinational-2",
+    "nome": "Combinational Circuit 2",
+    "topico": "Lendo simulações",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verification/reading-simulations/combinational-2/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "reading-simulations-combinational-3",
+    "nome": "Combinational Circuit 3",
+    "topico": "Lendo simulações",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verification/reading-simulations/combinational-3/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "reading-simulations-combinational-4",
+    "nome": "Combinational Circuit 4",
+    "topico": "Lendo simulações",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verification/reading-simulations/combinational-4/"
+   }
+  ]
+ },
+ {
+  "dia": 82,
+  "data": "2027-02-15",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "reading-simulations-combinational-5",
+    "nome": "Combinational Circuit 5",
+    "topico": "Lendo simulações",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verification/reading-simulations/combinational-5/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "reading-simulations-combinational-6",
+    "nome": "Combinational Circuit 6",
+    "topico": "Lendo simulações",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verification/reading-simulations/combinational-6/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "reading-simulations-sequential-7",
+    "nome": "Sequential Circuit 7",
+    "topico": "Lendo simulações",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verification/reading-simulations/sequential-7/"
+   }
+  ]
+ },
+ {
+  "dia": 83,
+  "data": "2027-02-16",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "reading-simulations-sequential-8",
+    "nome": "Sequential Circuit 8",
+    "topico": "Lendo simulações",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verification/reading-simulations/sequential-8/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "reading-simulations-sequential-9",
+    "nome": "Sequential Circuit 9",
+    "topico": "Lendo simulações",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verification/reading-simulations/sequential-9/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "reading-simulations-sequential-10",
+    "nome": "Sequential Circuit 10",
+    "topico": "Lendo simulações",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verification/reading-simulations/sequential-10/"
+   }
+  ]
+ },
+ {
+  "dia": 84,
+  "data": "2027-02-17",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "writing-testbenches-exhaustive-test-full-adder",
+    "nome": "Exhaustively Test a Full Adder",
+    "topico": "Escrevendo testbenches",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verification/writing-testbenches/exhaustive-test-full-adder/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "writing-testbenches-verify-counter-sequence",
+    "nome": "Verify a Counter's Sequence",
+    "topico": "Escrevendo testbenches",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verification/writing-testbenches/verify-counter-sequence/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "writing-testbenches-verify-fsm-sequence",
+    "nome": "Verify an FSM's Output Sequence",
+    "topico": "Escrevendo testbenches",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verification/writing-testbenches/verify-fsm-sequence/"
+   }
+  ]
+ },
+ {
+  "dia": 85,
+  "data": "2027-02-18",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "writing-testbenches-verify-shift-register",
+    "nome": "Verify a Shift Register",
+    "topico": "Escrevendo testbenches",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verification/writing-testbenches/verify-shift-register/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "writing-testbenches-clock",
+    "nome": "Clock",
+    "topico": "Escrevendo testbenches",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verification/writing-testbenches/clock/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "writing-testbenches-testbench1",
+    "nome": "Testbench1",
+    "topico": "Escrevendo testbenches",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verification/writing-testbenches/testbench1/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "writing-testbenches-and-gate",
+    "nome": "AND Gate",
+    "topico": "Escrevendo testbenches",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/verification/writing-testbenches/and-gate/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "writing-testbenches-testbench2",
+    "nome": "Testbench2",
+    "topico": "Escrevendo testbenches",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verification/writing-testbenches/testbench2/"
+   }
+  ]
+ },
+ {
+  "dia": 86,
+  "data": "2027-02-19",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "writing-testbenches-t-flip-flop",
+    "nome": "T Flip-Flop",
+    "topico": "Escrevendo testbenches",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/verification/writing-testbenches/t-flip-flop/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "memories-rom",
+    "nome": "Synchronous ROM",
+    "topico": "Memórias, FIFO e pilha",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/memories/rom/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "memories-single-port-ram",
+    "nome": "Single-Port RAM",
+    "topico": "Memórias, FIFO e pilha",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/memories/single-port-ram/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "memories-dual-port-ram",
+    "nome": "Dual-Port RAM",
+    "topico": "Memórias, FIFO e pilha",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/memories/dual-port-ram/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "memories-register-file",
+    "nome": "Register File (2 Read Ports, 1 Write Port)",
+    "topico": "Memórias, FIFO e pilha",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/memories/register-file/"
+   }
+  ]
+ },
+ {
+  "dia": 87,
+  "data": "2027-02-20",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "memories-sram-controller",
+    "nome": "External SRAM Controller",
+    "topico": "Memórias, FIFO e pilha",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/memories/sram-controller/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "fifos-sync-fifo",
+    "nome": "Synchronous FIFO",
+    "topico": "Memórias, FIFO e pilha",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/fifos/sync-fifo/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "fifos-async-fifo",
+    "nome": "Asynchronous FIFO (Dual-Clock, Gray-Coded Pointers)",
+    "topico": "Memórias, FIFO e pilha",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/fifos/async-fifo/"
+   }
+  ]
+ },
+ {
+  "dia": 88,
+  "data": "2027-02-21",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "fifos-circular-buffer",
+    "nome": "Circular Buffer (Overwrite-on-Full)",
+    "topico": "Memórias, FIFO e pilha",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/fifos/circular-buffer/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "fifos-almost-full-fifo",
+    "nome": "FIFO with Almost-Full Flag",
+    "topico": "Memórias, FIFO e pilha",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/fifos/almost-full-fifo/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "fifos-almost-empty-fifo",
+    "nome": "FIFO with Almost-Empty Flag",
+    "topico": "Memórias, FIFO e pilha",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/fifos/almost-empty-fifo/"
+   }
+  ]
+ },
+ {
+  "dia": 89,
+  "data": "2027-02-22",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "55-ram",
+    "nome": "55-ram",
+    "topico": "Memórias, FIFO e pilha",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "56-fifo",
+    "nome": "56-fifo",
+    "topico": "Memórias, FIFO e pilha",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "57-pilha",
+    "nome": "57-pilha",
+    "topico": "Memórias, FIFO e pilha",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 90,
+  "data": "2027-02-23",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "78-memorias",
+    "nome": "78-memorias",
+    "topico": "Memórias, FIFO e pilha",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "cdc-two-flop-synchronizer",
+    "nome": "2-Flop Synchronizer",
+    "topico": "Clock domain crossing e handshake",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/cdc/two-flop-synchronizer/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "cdc-pulse-synchronizer",
+    "nome": "Pulse Synchronizer",
+    "topico": "Clock domain crossing e handshake",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/cdc/pulse-synchronizer/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "cdc-toggle-synchronizer",
+    "nome": "Toggle Synchronizer",
+    "topico": "Clock domain crossing e handshake",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/cdc/toggle-synchronizer/"
+   }
+  ]
+ },
+ {
+  "dia": 91,
+  "data": "2027-02-24",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "cdc-handshake-synchronizer",
+    "nome": "Handshake Synchronizer (4-Phase Req/Ack)",
+    "topico": "Clock domain crossing e handshake",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/cdc/handshake-synchronizer/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "handshaking-valid-ready-basics",
+    "nome": "Valid/Ready Interface Basics",
+    "topico": "Clock domain crossing e handshake",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/handshaking/valid-ready-basics/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "handshaking-ready-valid-pipeline-stage",
+    "nome": "Ready/Valid Pipeline Stage",
+    "topico": "Clock domain crossing e handshake",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/handshaking/ready-valid-pipeline-stage/"
+   }
+  ]
+ },
+ {
+  "dia": 92,
+  "data": "2027-02-25",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "handshaking-skid-buffer",
+    "nome": "Skid Buffer",
+    "topico": "Clock domain crossing e handshake",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/handshaking/skid-buffer/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "handshaking-backpressure-pipeline",
+    "nome": "Backpressure-Aware FIFO-Fed Pipeline",
+    "topico": "Clock domain crossing e handshake",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/handshaking/backpressure-pipeline/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "pipelines-two-stage-pipeline",
+    "nome": "2-Stage Pipeline",
+    "topico": "Pipelines",
+    "peso": 1,
+    "origem": "HDLBits",
+    "nivel": "fácil",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/pipelines/two-stage-pipeline/"
+   }
+  ]
+ },
+ {
+  "dia": 93,
+  "data": "2027-02-26",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "pipelines-four-stage-pipeline",
+    "nome": "4-Stage Pipeline",
+    "topico": "Pipelines",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/pipelines/four-stage-pipeline/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "pipelines-pipelined-multiplier",
+    "nome": "Pipelined Multiplier",
+    "topico": "Pipelines",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/pipelines/pipelined-multiplier/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "pipelines-pipelined-adder",
+    "nome": "Pipelined Adder (Carry-Select, 2-Stage)",
+    "topico": "Pipelines",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/pipelines/pipelined-adder/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "pipelines-latency-matching",
+    "nome": "Latency Matching with Shift Registers",
+    "topico": "Pipelines",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/pipelines/latency-matching/"
+   }
+  ]
+ },
+ {
+  "dia": 94,
+  "data": "2027-02-27",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "64-spi-mestre",
+    "nome": "64-spi-mestre",
+    "topico": "Protocolos: SPI e I2C",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "65-spi-escravo",
+    "nome": "65-spi-escravo",
+    "topico": "Protocolos: SPI e I2C",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "66-i2c-mestre-escrita",
+    "nome": "66-i2c-mestre-escrita",
+    "topico": "Protocolos: SPI e I2C",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 95,
+  "data": "2027-02-28",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "67-celulas-comparador-ref",
+    "nome": "67-celulas-comparador-ref",
+    "topico": "Com as células da biblioteca",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "68-celulas-mux8",
+    "nome": "68-celulas-mux8",
+    "topico": "Com as células da biblioteca",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "69-celulas-conta-votos",
+    "nome": "69-celulas-conta-votos",
+    "topico": "Com as células da biblioteca",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "70-celulas-somador4",
+    "nome": "70-celulas-somador4",
+    "topico": "Com as células da biblioteca",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 96,
+  "data": "2027-03-01",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "71-celulas-contador",
+    "nome": "71-celulas-contador",
+    "topico": "Com as células da biblioteca",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "72-pc",
+    "nome": "72-pc",
+    "topico": "RISC-V uniciclo",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "73-banco-registradores",
+    "nome": "73-banco-registradores",
+    "topico": "RISC-V uniciclo",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 97,
+  "data": "2027-03-02",
+  "itens": [
+   {
+    "tipo": "bloco",
+    "id": "74-extensor-imediato",
+    "nome": "74-extensor-imediato",
+    "topico": "RISC-V uniciclo",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "75-ula-riscv",
+    "nome": "75-ula-riscv",
+    "topico": "RISC-V uniciclo",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "76-decodificador-principal",
+    "nome": "76-decodificador-principal",
+    "topico": "RISC-V uniciclo",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   },
+   {
+    "tipo": "bloco",
+    "id": "77-decodificador-ula",
+    "nome": "77-decodificador-ula",
+    "topico": "RISC-V uniciclo",
+    "peso": 2,
+    "origem": "bloco de Verilog do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 98,
+  "data": "2027-03-03",
+  "itens": [
+   {
+    "tipo": "problema",
+    "id": "p3-riscv-uniciclo",
+    "nome": "RISC-V uniciclo completo",
+    "topico": "RISC-V uniciclo",
+    "peso": 10,
+    "origem": "problema grande do meu estudo"
+   }
+  ]
+ },
+ {
+  "dia": 99,
+  "data": "2027-03-04",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "branch-prediction-cs450-timer",
+    "nome": "CS450 Timer",
+    "topico": "Predição de desvio",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/branch-prediction/cs450-timer/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "branch-prediction-cs450-counter-2bc",
+    "nome": "CS450 Two-Bit Saturating Counter",
+    "topico": "Predição de desvio",
+    "peso": 2,
+    "origem": "HDLBits",
+    "nivel": "médio",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/branch-prediction/cs450-counter-2bc/"
+   }
+  ]
+ },
+ {
+  "dia": 100,
+  "data": "2027-03-05",
+  "itens": [
+   {
+    "tipo": "hdlbits",
+    "id": "branch-prediction-cs450-history-shift",
+    "nome": "CS450 Branch History Register",
+    "topico": "Predição de desvio",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/branch-prediction/cs450-history-shift/"
+   },
+   {
+    "tipo": "hdlbits",
+    "id": "branch-prediction-cs450-gshare",
+    "nome": "CS450 Gshare Branch Predictor",
+    "topico": "Predição de desvio",
+    "peso": 3,
+    "origem": "HDLBits",
+    "nivel": "difícil",
+    "link": "https://www.hdlbits.com/problems/rtl-patterns/branch-prediction/cs450-gshare/"
+   }
+  ]
+ }
+]
