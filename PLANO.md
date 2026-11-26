@@ -81,12 +81,12 @@ Gerado de `plano.json` por `python3 ferramentas/plano.py md`. Marque o `[x]` no 
 ## Dia 011 · 2026-12-06 · ULA (trabalho final, entrega 09/12)
 
 - [ ] [4-bit ALU](https://www.hdlbits.com/problems/circuits/building-larger-circuits/alu-4bit/) (médio)
-- [ ] ULA 8 bits: RTL · trabalho final de Lógica Digital (CI Inovador)
+- [ ] ULA 8 bits: RTL · trabalho final de Arquitetura ASIC e FPGA (CI Inovador)
 
 ## Dia 012 · 2026-12-07 · ULA (trabalho final, entrega 09/12)
 
-- [ ] ULA 8 bits: testbench e ondas · trabalho final de Lógica Digital (CI Inovador)
-- [ ] ULA 8 bits: síntese TCL nas duas tecnologias e netlist · trabalho final de Lógica Digital (CI Inovador)
+- [ ] ULA 8 bits: testbench e ondas · trabalho final de Arquitetura ASIC e FPGA (CI Inovador)
+- [ ] ULA 8 bits: síntese TCL nas duas tecnologias e netlist · trabalho final de Arquitetura ASIC e FPGA (CI Inovador)
 
 ## Dia 013 · 2026-12-08 · Aritmética
 

@@ -529,7 +529,7 @@
     "nome": "ULA 8 bits: RTL",
     "topico": "ULA (trabalho final, entrega 09/12)",
     "peso": 4,
-    "origem": "trabalho final de Lógica Digital (CI Inovador)"
+    "origem": "trabalho final de Arquitetura ASIC e FPGA (CI Inovador)"
    }
   ]
  },
@@ -543,7 +543,7 @@
     "nome": "ULA 8 bits: testbench e ondas",
     "topico": "ULA (trabalho final, entrega 09/12)",
     "peso": 4,
-    "origem": "trabalho final de Lógica Digital (CI Inovador)"
+    "origem": "trabalho final de Arquitetura ASIC e FPGA (CI Inovador)"
    },
    {
     "tipo": "ula",
@@ -551,7 +551,7 @@
     "nome": "ULA 8 bits: síntese TCL nas duas tecnologias e netlist",
     "topico": "ULA (trabalho final, entrega 09/12)",
     "peso": 4,
-    "origem": "trabalho final de Lógica Digital (CI Inovador)"
+    "origem": "trabalho final de Arquitetura ASIC e FPGA (CI Inovador)"
    }
   ]
  },

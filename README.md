@@ -8,8 +8,8 @@ Os exercícios vêm de três lugares:
 - os 244 problemas do [HDLBits](https://www.hdlbits.com/);
 - 78 blocos e 3 problemas maiores (cronômetro, semáforo e um RISC-V uniciclo)
   que montei para estudar Verilog;
-- as atividades de Lógica Digital e o trabalho final (uma ULA de 8 bits) da
-  especialização em microeletrônica que estou fazendo (CI Inovador, UFSM).
+- as atividades de Lógica Digital e o trabalho final de Arquitetura ASIC e FPGA
+  (uma ULA de 8 bits) da especialização em microeletrônica que estou fazendo (CI Inovador, UFSM).
 
 A ordem é por assunto, do fio sozinho até predição de desvio: vetores, módulos,
 aritmética, mux e decodificadores, flip-flops, contadores, máquinas de estado,
